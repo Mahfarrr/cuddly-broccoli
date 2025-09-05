@@ -1,0 +1,23 @@
+Project structure : 
+
+mahfarproject/
+├── .gitignore
+├── index.html
+├── package-lock.json
+├── package.json
+├── vite.config.js
+├── public/
+│   └── vite.svg
+└── src/
+├── App.jsx
+├── counter.js
+├── javascript.svg
+├── main.jsx
+├── style.css
+├── components/
+└── pages/
+├── AddExpense.jsx
+├── Dashboard.jsx
+├── EditExpense.jsx
+└── Profile.jsx
+
